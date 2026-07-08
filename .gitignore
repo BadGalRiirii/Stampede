@@ -1,0 +1,8 @@
+node_modules/
+dist/
+server/uploads/*
+!server/uploads/.gitkeep
+server/stampede.db*
+server/*.traineddata
+.env
+*.log
